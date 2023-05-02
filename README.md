@@ -4,7 +4,7 @@
 **Computer Engineering** (BSc) at [La Sapienza, University of Rome](https://www.uniroma1.it/it/pagina-strutturale/home).
 
 ## 👀 I’m interested in ..
-Artificial Intelligence, Robotics, Software Development and what they can do to improve human life. 🫂 
+Artificial Intelligence, Robotics, Software Development and what they can do to improve human life.
 
 ## :computer: Languages and Tools
 - **Programming languages:** Python, C, C++, Java, Assembly x86, SQL, MATLAB
