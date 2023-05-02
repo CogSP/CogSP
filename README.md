@@ -19,5 +19,5 @@ Artificial Intelligence, Robotics, Software Development and their Applications i
 [<img align="left" alt="CogSP | LinkedIn" width="50px" style="color:red" src="linkedin_logo.svg" />][linkedin]
 [<img align="left" alt="CogSP | Gmail" width="50px" style="color:blue" src="gmail_logo.svg" />][gmail]
 
-[linkedin]: www.linkedin.com/in/simone-palumbo2001
+[linkedin]: https://www.linkedin.com/in/simone-palumbo2001
 [gmail]: mailto:simonepalumbospina@gmail.com
