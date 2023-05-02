@@ -7,7 +7,7 @@
 Artificial Intelligence, Robotics, Software Development and what they can do to improve human life.
 
 ## :computer: Languages and Tools
-- **Programming languages:** Python, C, C++, Java, Assembly x86, SQL, MATLAB
+- **Programming languages:** Python, C, C++, Java, SQL, Assembly x86
 - **Web programming:** JavaScript, HTML, CSS, PHP
 - **Operating systems:** Windows, Ubuntu
 - **DevOps**: Docker, Kubernetes, Grafana
