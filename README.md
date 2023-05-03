@@ -1,4 +1,4 @@
-### Hi there, I'm Simone Palumbo 👋  
+# Hi there, I'm Simone Palumbo 👋  
 
 ## 🌱 I’m currently studying ...
 **Computer Engineering** (BSc) at [La Sapienza, University of Rome](https://www.uniroma1.it/it/pagina-strutturale/home).
