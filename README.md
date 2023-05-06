@@ -9,8 +9,9 @@ Artificial Intelligence, Robotics, Software Development and what they can do to 
 ## :computer: Languages and Tools
 - **Programming languages:** Python, C, C++, Java, SQL, Assembly x86
 - **Web programming:** JavaScript, HTML, CSS, PHP
-- **Operating systems:** Windows, Ubuntu
 - **DevOps**: Docker, Kubernetes, Grafana
+- **Computer Networking**: ns3, Wireshark, NetAnim
+- **Operating systems:** Windows, Ubuntu
 
 <br />
 
