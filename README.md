@@ -1,10 +1,10 @@
 # Hi there, I'm Simone Palumbo 👋  
 
 ## 🌱 I’m currently studying ...
-**Computer Engineering** (BSc) at [La Sapienza, University of Rome](https://www.uniroma1.it/it/pagina-strutturale/home).
+[**Artificial Intelligence and Robotics** (M.Sc.)](https://corsidilaurea.uniroma1.it/it/corso/2021/30431/home) at La Sapienza, University of Rome
 
 ## 👀 I’m interested in ..
-Artificial Intelligence, Robotics, Software Development and what they can do to improve human life.
+Telecommunications, Artificial Intelligence, Robotics, Software Development and what they can do to improve human life.
 
 ## :computer: Languages and Tools
 - **Programming languages:** Python, C, C++, Java, SQL, Assembly x86
