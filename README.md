@@ -32,6 +32,8 @@ Telecommunications, Artificial Intelligence, Robotics, Software Development and 
 -->
 
 
+<img src="https://media.giphy.com/media/3o7bufPuskODYyUf4I/giphy.gif?cid=ecf05e47ad7wffo3wvkiqfah3lhxa1i3lveog1hb281rzoc9&rid=giphy.gif&ct=g" >
+
 ---
 ### 📫 Connect with me:
 [<img align="left" alt="CogSP | LinkedIn" width="50px" style="color:red" src="linkedin_logo.svg" />][linkedin]
