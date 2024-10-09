@@ -6,12 +6,6 @@
 ## 👀 I’m interested in ..
 Telecommunications, Artificial Intelligence, Robotics, Software Development and what they can do to improve human life.
 
-## :computer: Languages and Tools
-- **Programming languages:** Python, C, C++, Java, SQL, Assembly x86
-- **Web programming:** JavaScript, HTML, CSS, PHP
-- **DevOps**: Docker, Kubernetes, Grafana
-- **Computer Networking**: ns3, Wireshark, NetAnim
-- **Operating systems:** Windows, Ubuntu
 
 <br />
 
