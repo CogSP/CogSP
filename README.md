@@ -1,4 +1,4 @@
-# Hi there, I'm Simone Palumbo 👋  
+# Hi there, I'm Simone Palumbo 👋🏻
 
 ## 🌱 I’m currently studying ...
 [**Artificial Intelligence and Robotics** (M.Sc.)](https://corsidilaurea.uniroma1.it/en/corso/2021/30431/home) at La Sapienza, University of Rome
