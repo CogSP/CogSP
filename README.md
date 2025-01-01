@@ -25,7 +25,7 @@ Telecommunications, Artificial Intelligence, Robotics, Software Development and 
 ![](https://github-contributor-stats.vercel.app/api?username=cogSP&limit=5&theme=dark&combine_all_yearly_contributions=true)-->
 
 
-[![](https://visitcount.itsvg.in/api?id=cogSP&icon=8&color=0)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=cogSP&icon=8&color=0)](https://visitcount.itsvg.in) -->
 
 
 ### 📫 Connect with me:
