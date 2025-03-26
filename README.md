@@ -1,7 +1,8 @@
 # Hi there, I'm Simone Palumbo 👋🏻
 
-## 🌱 I’m currently studying ...
-[**Artificial Intelligence and Robotics** (M.Sc.)](https://corsidilaurea.uniroma1.it/en/corso/2021/30431/home) at La Sapienza, University of Rome
+## 🌱 I’m currently ...
+- Studying [Artificial Intelligence and Robotics (M.Sc.)](https://corsidilaurea.uniroma1.it/en/corso/2021/30431/home) at La Sapienza, University of Rome
+- Working with the [Wireless Networks and Embedded Systems Laboratory](https://ece.northeastern.edu/wineslab/) at Northeastern University for my MSc thesis.
 
 ## 👀 I’m interested in ..
 Telecommunications, Artificial Intelligence, Robotics
