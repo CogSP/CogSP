@@ -1,8 +1,3 @@
-# About Me
-
-- Currently studying [Artificial Intelligence and Robotics (M.Sc.)](https://corsidilaurea.uniroma1.it/en/corso/2021/30431/home) at La Sapienza, University of Rome
-- Working with the [Wireless Networks and Embedded Systems Laboratory](https://ece.northeastern.edu/wineslab/) at Northeastern University for my MSc thesis.
-- Interested in Telecommunications, Computer Networks, Artificial Intelligence, Cybersecurity, Robotics
 
 <!-- <img src="https://media.giphy.com/media/3o7bufPuskODYyUf4I/giphy.gif?cid=ecf05e47ad7wffo3wvkiqfah3lhxa1i3lveog1hb281rzoc9&rid=giphy.gif&ct=g" > 
 
