@@ -28,8 +28,6 @@
 [<img align="left" alt="CogSP | Gmail" width="50px" style="color:blue" src="gmail_logo.svg" />][gmail]
 
 [linkedin]: https://www.linkedin.com/in/simone-palumbo2001
-[gmail]: mailto:simonepalumbospina@gmail.com
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
